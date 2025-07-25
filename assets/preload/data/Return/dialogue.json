@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\nbf...\\ncuanto tiempo sin vernos\\npense que ya habias muerto."
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bf:\\n(silencio)"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\nquedaste mudo ahora o que?"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bf:\\nno me seguiras hablando haci despues\\nde que te derrote.\\nmaldito idiota."
+		},
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\nja. la ultima vez solo tuviste suerte.\\nesta vez vas a ver mi flow.\\nte vencere de la forma mas humillante"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bf:\\npor tu bien debe ser haci."
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*la batalla comenzo con pico un poco\\nconfuso por la apariencia y actitud\\nnueva de 'bf'"
+		}
+	]
+}

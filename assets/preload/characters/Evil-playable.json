@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Soul Sing Note DOWN",
+			"fpsPrefs": false
+		},
+		{
+			"offsets": [
+				-2,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Soul idle dance",
+			"fpsPrefs": false
+		},
+		{
+			"offsets": [
+				45,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Soul Sing Note LEFT",
+			"fpsPrefs": false
+		},
+		{
+			"offsets": [
+				-26,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Soul Sing Note UP",
+			"fpsPrefs": false
+		},
+		{
+			"offsets": [
+				52,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Soul Sing Note RIGHT",
+			"fpsPrefs": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Evil/Evil_Base",
+	"position": [
+		-50,
+		80
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		0,
+		155
+	],
+	"camera_position": [
+		50,
+		20
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

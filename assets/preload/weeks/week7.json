@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Deadly-mindset", "evil", [146, 113, 253]],
+		["Recovered-feelings", "evil", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"evil",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "evil",
+
+	"storyName": "< VS EVIL >",
+	"weekBefore": "day 6",
+	"weekName": "week7",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"bG": "evil"
+}

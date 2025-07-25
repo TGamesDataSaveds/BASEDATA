@@ -1,0 +1,10 @@
+{
+	"directory": "EvilWeek",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+	"stageUI": "Evil",
+
+	"boyfriend": [770, 100],
+	"girlfriend": [400, 130],
+	"opponent": [70, 60]
+}

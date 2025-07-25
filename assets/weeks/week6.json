@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Dusk", "dad", [146, 113, 253]],
+		["Deathmatch", "dad", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "< VS DADDY DEREST >",
+	"weekBefore": "day 5",
+	"weekName": "week6",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"bG": "stage"
+}

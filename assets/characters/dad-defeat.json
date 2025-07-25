@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Dad-defeat idle dance",
+			"fpsPrefs": false
+		},
+		{
+			"offsets": [
+				-1,
+				54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dad-defeat  Sing Note LEFT",
+			"fpsPrefs": false
+		},
+		{
+			"offsets": [
+				3,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Dad-defeat  sing note right",
+			"fpsPrefs": false
+		},
+		{
+			"offsets": [
+				-13,
+				68
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dad-defeat  Sing note UP",
+			"fpsPrefs": false
+		},
+		{
+			"offsets": [
+				2,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Dad-defeat  Sing Note DOWN",
+			"fpsPrefs": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Stage/dad-defeat",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "corrupted-dad-def",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

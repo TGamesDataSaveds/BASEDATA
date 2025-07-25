@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\nno lo puedo... creer\\nya casi no siento mi cuerpo.\\neste es mi fin?"
+		},
+		{
+			"sound": "",
+			"speed": 0.115,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\n....."
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bf:\\nrindete de una vez por todas.\\nya no hay esperanza para ti\\nyo soy poderoso. tu no eres nadie"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\nquien eres tu...?"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bf:\\nsoy el poder. soy un ser superior.\\n\\nsoy la exterminacion de la vida"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*la conciencia de pico, se debilitaba\\nmas. con sus ultimas fuerzas intento\\neliminar al ser que consumio a su\\namigo..."
+		}
+	]
+}

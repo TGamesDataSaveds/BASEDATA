@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\nemm....\\nque mierd* es esto. me esta doliendo!"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bf:\\nesto se llama 'poder'!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\ntu no eres bf. verdad?"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bf:\\ntu mente es tan estupida\\nque hasta ahora te enteras que no soy\\nbf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\npense qu*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bf:\\npues pensaste mal. mortal estupid*"
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\n(no entendio)"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*luego de eso. continuaron su batalla.\\nque se convirtio en una pelea por su\\nvida"
+		}
+	]
+}

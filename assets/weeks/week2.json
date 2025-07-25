@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Dark Shot", "mom", [146, 113, 253]],
+		["Moving Attack", "mom", [146, 113, 253]],
+		["Corrupt Mind", "mom", [146, 113, 253]]	
+	],
+
+	"weekCharacters": [
+		"mom",
+		"pico",
+		"gf"
+	],
+	"weekBackground": "limo",
+
+	"storyName": "< VS MOMMY >",
+	"weekBefore": "day 2",
+	"weekName": "week2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"bG": "limo"
+}

@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\npero...\\ncomo?\\nno comprendo. esto no puede acabar"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\n(siento como pierdo cada vez mas el\\ncontrol de mi cuerpo...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bf:\\ntus balas son inutiles.\\nla corrupcion no es algo debil.\\nes poder!!. yo soy poder."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pico:\\nmaldito.\\n(recargando...)"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*pico se encontraba muy cansado y\\ncon dolor. la corrupcion estaba.\\nganando. igualmente recargo su arma\\ny empezo a seguir luchando contra 'bf'"
+		}
+	]
+}

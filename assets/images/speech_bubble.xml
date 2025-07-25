@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueStuff.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<!--SubTexture name="Mapa de bits 3" x="0" y="0" width="1224" height="304"-->
+	<SubTexture name="AHH speech bubble0000" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="AHH speech bubble0001" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="AHH Speech Bubble middle0000" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="AHH Speech Bubble middle0001" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="Speech Bubble Middle Open0000" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="Speech Bubble Middle Open0001" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="speech bubble loud open0000" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="speech bubble loud open0001" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="speech bubble Middle loud open0000" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="speech bubble Middle loud open0001" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="speech bubble middle0000" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="speech bubble middle0001" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="angry0000" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="center-angry0000" x="0" y="0" width="1224" height="304"/>
+	<SubTexture name="center-normal0000" x="0" y="0" width="1224" height="304"/>
+</TextureAtlas>
